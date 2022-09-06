@@ -3,7 +3,7 @@
 // 12821 -> да
 // 23432 -> да
 
-
+/*
 Console.Write("Enter a five-digit number: ");
 string number = Console.ReadLine();
 
@@ -20,7 +20,7 @@ if (number.Length == 5)
   CheckingNumber(number);
 }
 else Console.WriteLine("Enter a five-digit number!");
-
+*/
 
 
 // Задача 21 : Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
